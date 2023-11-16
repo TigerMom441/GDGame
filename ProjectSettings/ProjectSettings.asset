@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 5ba4d43dfbe824ef2b1831b53fc41ca5
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -813,7 +813,7 @@ PlayerSettings:
   cloudProjectId: 66995163-81c9-4bed-89ee-e155a3362d61
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: GD Game
   organizationId: tigermom441
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
