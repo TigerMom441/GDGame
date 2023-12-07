@@ -6306,6 +6306,11 @@ PrefabInstance:
       propertyPath: m_Simulated
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4690556279940370152, guid: 7fd41fa84730f41b8893cfe236624dde,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 5820038349647890036, guid: 7fd41fa84730f41b8893cfe236624dde,
         type: 3}
       propertyPath: m_Name
