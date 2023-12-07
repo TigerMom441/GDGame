@@ -29,7 +29,7 @@ public class UIScript : MonoBehaviour
 	private int[] scores = new int[2];
 	private int[] playersHealth = new int[2];
 	private Dictionary<int, ResourceStruct> resourcesDict = new Dictionary<int, ResourceStruct>(); //holds a reference to all the resources collected, and to their UI
-    private bool gameOver = false; //this gets changed when the game is won OR lost
+    public bool gameOver = false; //this gets changed when the game is won OR lost
 
 
 	private void Start()
